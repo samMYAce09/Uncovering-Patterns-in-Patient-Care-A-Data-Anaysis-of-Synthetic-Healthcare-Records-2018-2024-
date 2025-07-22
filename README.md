@@ -1,4 +1,5 @@
 
+![Healthcare Dashboard]("C:\Users\HP\Downloads\unlocking_possibilities_synthetic_data_impact_on_healthcare_research.webp"g)
 # Uncovering Patterns in Patient Care: A Data Analysis of Synthetic Healthcare Records (2018–2024)
 
 
