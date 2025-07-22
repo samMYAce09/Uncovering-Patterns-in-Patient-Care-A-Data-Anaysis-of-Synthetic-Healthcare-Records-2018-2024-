@@ -150,12 +150,11 @@ The costliest treatment combo was Diabetes + Paracetamol ($26,398.78), followed 
 
 ## Recommendations
 
-1. Implement Specialized Emergency Units for Obesity Management
+1. Implement Specialized Emergency Units for Obesity Management  
 **why?** With 3,100 emergency admissions from obesity alone, there’s a critical need to address obesity-related complications promptly. Having dedicated units can reduce repeat visits and improve care efficiency.
-
-2. Review High-Billing Insurance Plans like Medicare 
+2. Review High-Billing Insurance Plans like Medicare  
 **Why?** Medicare patients averaged $25,628.32 in bills — highest among all insurers. A billing audit can uncover whether longer stays, advanced treatments, or chronic management are inflating costs.
-3. Allocate More Staff During Emergency Peak Months 
+3. Allocate More Staff During Emergency Peak Months  
 **Why?** Emergency spikes in July (1,573) and January (1,547) stress hospital systems. Proactive staffing and preparedness can reduce wait times and improve patient outcomes.
 4. Monitor Doctors with High Abnormal Result Loads  
 **Why?** Doctors like Michael Smith (12 abnormal cases) may be dealing with more severe patient profiles. Providing them support or additional diagnostics resources can enhance decision-making and reduce burnout.
